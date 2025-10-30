@@ -20,7 +20,7 @@ Using PCA-based approaches, this project explores how to **reduce dimensionality
 ## 💻 Code
 
 You can explore the project code here:  
-👉 [Code](./code)  
+👉 [Code File](https://github.com/FLLC/empirical-asset-pricing/blob/main/notebook/analysis.ipynb)  
 
 ---
 
