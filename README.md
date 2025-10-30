@@ -1,7 +1,7 @@
 # Asset Pricing: Comparing RP-PCA, PCA, and Fama-French Factors
 
 **Course:** FEM21003 – Asset Pricing  
-**Program:** MSc Econometrics & Management Science  
+**Program:** MSc Econometrics & Management Science: Quantitative Finance  
 **University:** Erasmus University Rotterdam  
 **Instructors:** Dr. Gustavo Freire & Dr. Erik Kole  
 **Date:** October 2025  
