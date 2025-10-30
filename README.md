@@ -1,7 +1,6 @@
 # Asset Pricing: Comparing RP-PCA, PCA, and Fama-French Factors
 ## 📘 Project Overview
 
-This repository will contain the code, data preparation, and analysis for the *Asset Pricing* course assignment.  
 The project investigates how **Risk-Premium Principal Component Analysis (RP-PCA)** compares to both **standard PCA** and **Fama–French-style factor construction** in explaining the cross-section of expected returns.
 
 Empirical asset pricing has identified a “**factor zoo**” — an overwhelming number of firm and portfolio characteristics correlated with returns.  
